@@ -132,3 +132,4 @@ dmypy.json
 checkpoints/
 fyp/
 venv/
+config.py
