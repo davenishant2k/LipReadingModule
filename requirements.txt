@@ -1,0 +1,7 @@
+editdistance
+matplotlib
+numpy
+opencv-python
+torch
+scipy
+tqdm
