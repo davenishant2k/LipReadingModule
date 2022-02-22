@@ -133,3 +133,6 @@ checkpoints/
 fyp/
 venv/
 config.py
+
+# Mac MetaData
+.DS_Store
