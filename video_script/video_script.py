@@ -1,4 +1,5 @@
 print("enter -ve start time to end")
+i = int(input("Enter start index : "))
 while(True):
     #take inputs
     print("Start time: ")
@@ -18,3 +19,4 @@ while(True):
     f=open(str(i)+".txt",'w')
     f.write(text)
     f.close()
+    i += 1
