@@ -1,7 +1,11 @@
-for i in range(0,20):
+print("enter -ve start time to end")
+while(True):
     #take inputs
     print("Start time: ")
     start = int(input())
+    if start < 0:
+        print("Script ended")
+        break
     print("End time: ")
     end = int(input())
     text = input("Text : ")
